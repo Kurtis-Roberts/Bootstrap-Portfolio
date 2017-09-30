@@ -1,0 +1,31 @@
+.banner {
+    height: 56px;
+    background-color: #416F8C;
+    margin-top: -56px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    line-height: 45px;
+    color: white;
+    margin-left: -0.2%;
+    margin-right: auto;
+    position: relative;
+}
+
+.text-info {
+    color: #31708f;
+}
+
+h2 {
+    line-height: 0px;
+    margin-top: 10px;
+}
+
+footer {
+    background-color: #F5F5F5;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    line-height: 45px;
+}
