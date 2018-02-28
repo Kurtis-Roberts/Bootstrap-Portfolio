@@ -1,3 +1,14 @@
+body {
+    background: url("http://i.imgur.com/TT16s.jpg")
+}
+
+.navbar {
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXxKugQ_gBZBm1kzznFMOh9dxIl57gcZSfB0oUTPBvayILJVKX") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
 .banner {
     height: 56px;
     background-color: #416F8C;
